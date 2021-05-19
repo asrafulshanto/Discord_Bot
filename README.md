@@ -16,3 +16,4 @@
 4)Type (.kick _username type_reason_anything_u_want) and it will kick member from server.<br>
 5)Type (.ban _username type_reason_anything_u_want) and it will kick member from server.<br>
 6)Type (.uban _username) and it will unban member</p>
+ 
